@@ -10,4 +10,6 @@ title: "PicTu"
 - [이용약관](terms)
 - [계정 삭제 요청](delete-account)
 
+[English](en/)
+
 문의: tuatara94@naver.com
