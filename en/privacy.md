@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # PicTu Privacy Policy
 
-Effective date: {effective date}
+Effective date: 2026-10-28
 
 This Privacy Policy explains how Dowon Kim ("we", "us", the operator of PicTu) collects, uses and protects your personal information when you use the PicTu app (the "Service"). If you are in Korea, the Korean version of this policy applies.
 
