@@ -4,7 +4,7 @@ title: Terms of Service
 
 # PicTu Terms of Service
 
-Effective date: {effective date}
+Effective date: 2026-10-28
 
 ## 1. About these terms
 These terms set out the conditions for using PicTu (the "Service"), provided by Dowon Kim ("we", "us"). By using the Service, you agree to these terms. If you are in Korea, the Korean version of these terms applies.
